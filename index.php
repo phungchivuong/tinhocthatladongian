@@ -1,2 +1,1 @@
-hello vuongpv
-tao moi develop 
+chuc nang man hinh home page
